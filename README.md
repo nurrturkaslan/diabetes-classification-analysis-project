@@ -1,6 +1,6 @@
 # Predicting the Readmission of Diabetic Patient's
 
-![Alt Text](https://github.com/hkubrakkartal/hkubrakkartal-predicting-the-readmission-of-diabetic-patient-s/blob/master/images/diabet.jpg)
+![Alt Text](https://github.com/nurrturkaslan/diabetes-classification-analysis-project/blob/master/images/diabet.jpg)
  
 Diabetes, which is at the forefront of diseases of the age, is a disease that plays a leading role in the formation of many deadly diseases and is very common all over the world.
 
@@ -57,8 +57,8 @@ The data contains such attributes as patient number, race, gender, age, admissio
 
 |Name     |
 |---------|
-|[H.Kubra KUCUKKARTAL](https://github.com/hkubrakkartal)
 |[Ayse Nur TURKASLAN](https://github.com/nurrturkaslan)
+|[H.Kubra KUCUKKARTAL](https://github.com/hkubrakkartal)
 
 
 
