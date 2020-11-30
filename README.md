@@ -53,6 +53,9 @@ The data contains such attributes as patient number, race, gender, age, admissio
 *	Feature Importance
 *	Predict results
 
+## Presentation
+https://prezi.com/view/TJ6WPvqUV5962zIIeEnV/
+
 ## Members
 
 |Name     |
